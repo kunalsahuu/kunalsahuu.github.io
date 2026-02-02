@@ -2,5 +2,5 @@
 Portfolio
 
 can be accessed via:
-[kunalsahuu.github.io](kunalsahuu.github.io) or 
-[profile.kunalsahuu.dpdns.org](profile.kunalsahuu.dpdns.org)
+[kunalsahuu.github.io](https://kunalsahuu.github.io) or 
+[profile.kunalsahuu.dpdns.org](https://profile.kunalsahuu.dpdns.org)
